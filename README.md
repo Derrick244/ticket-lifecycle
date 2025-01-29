@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-[[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://i.imgur.com/6TBkBLO.png)](https://i.imgur.com/3I7fDln.png)
+  https://i.imgur.com/wMXeglI.png
 </p>
 <p>
 Ticket Creation/Submission: This is the first stage, where an issue or request is logged into the system by the user or automatically via integrations (like monitoring systems or email). A ticket will typically include a description of the issue, priority, and any relevant details.
@@ -38,7 +38,7 @@ Ticket Creation/Submission: This is the first stage, where an issue or request i
 <br />
 
 <p>
-[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://i.imgur.com/Ti29qDk.png)
+https://i.imgur.com/MAL9plA.png
 </p>
 <p>
 Ticket Assignment & Investigation: After the ticket is created, it is assigned to the appropriate team or individual who will investigate and work on resolving the issue. During this stage, the team may ask for more details, perform troubleshooting, or begin addressing the problem. It’s an active phase where resolution efforts are being put into play.
